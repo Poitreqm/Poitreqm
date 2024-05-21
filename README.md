@@ -9,7 +9,7 @@
 
 * 📄 Know about my experience in <a href="https://www.linkedin.com/in/iz2804/" target="_blank">LinkedIn</a>
 
-* 🌍 I speak Russian, Bulgarian, Romanian, English, and French
+* 🌍 I speak English, French, Russian, Bulgarian, Romanian
 
 <img src="https://myreadme.vercel.app/api/embed/Poitreqm?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 
