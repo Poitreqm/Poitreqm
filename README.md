@@ -3,7 +3,7 @@
 
 
 
-* 🌱 I’m currently learning Python
+* 🌱 I’m currently learning Python, Data Science, ML/AI
 
 * 📫 How to reach me ivanzdravcov@gmail.com
 
