@@ -11,7 +11,7 @@
 
 * 🌍 I speak English, French, Russian, Bulgarian, Romanian
 
-<img src="https://myreadme.vercel.app/api/embed/Poitreqm?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poitreqm&show_icons=true&bg_color=00000000)
 
 <h1>Skill</h1>
   
