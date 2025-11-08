@@ -9,10 +9,6 @@
 
 * 📄 Know about my experience in <a href="https://www.linkedin.com/in/iz2804/" target="_blank">LinkedIn</a>
 
-* 🌍 I speak English, French, Russian, Bulgarian, Romanian
-
-<img src="https://myreadme.vercel.app/api/embed/Poitreqm?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
-
 <h1>Skill</h1>
   
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
