@@ -3,7 +3,7 @@
 
 
 
-* 🌱 I’m currently learning Python, Data Science, ML/DL/AI
+* 🌱 I’m Data Scientist
 
 * 📫 How to reach me ivanzdravcov@gmail.com
 
